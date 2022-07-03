@@ -6,7 +6,7 @@
 
 I'm an honest and very hard worker. I have a passion for learning and sharing my knowledge with others. Ability to learn and implement new technologies quickly. My skills include Python,  HTML5, CSS3, Javascript, jQuery,React, PHP,Laravel, WordPress. 
 
-Skills: Python / PHP / Laravel / REACT / JS / jQuery /  HTML / CSS
+Skills: REACT / JavaScript / jQuery /  Bootstrap / Tailwind CSS / SASS / HTML / CSS 
 
 
 - 🌱 I’m currently learning Python 
