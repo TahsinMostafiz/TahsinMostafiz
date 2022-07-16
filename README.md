@@ -12,7 +12,7 @@ Skills: REACT / JavaScript / jQuery /  Bootstrap / Tailwind CSS / SASS / HTML / 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about web development 
-- 📫 How to reach me: mostafizur.webdesigner131@gmail.com 
+- 📫 How to reach me: mostafizur.webdesigner131@gmail.com, 
                       mostafizur.rahman1314@gmail.com
 
 
